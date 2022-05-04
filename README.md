@@ -1,22 +1,12 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de projeto sobre Git/GitHub
-<<<<<<< HEAD
+# Desafio de aprendizado da DIO sobre aprendizado Git/GitHub
+ Essa página tem apenas como função de existencia ser minha primeira criação no GitHub
 
 :chicken:
- ## preciso fazer essa modificação apenas como um teste.
-=======
-🐔
-
-### teria como não ficar dando erro direto?
-
-
-
-
 
 #### Alguns comandos básicos para caso ocorra erro durante o commit no GitHub Desktop. 
 
-``` Diretamente n a opção CMD
+``` Diretamente na opção CMD
 git add .
 git commit -m "correção"
 ```
-[texto teste hyperlink](https://mail.google.com/mail/u/0/)
+[Texto teste Hyperlink](https://mail.google.com/mail/u/0/)
