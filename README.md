@@ -8,3 +8,15 @@ Desafio de projeto sobre Git/GitHub
 🐔
 
 ### teria como não ficar dando erro direto?
+
+
+
+
+
+#### Alguns comandos básicos para caso ocorra erro durante o commit no GitHub Desktop. 
+
+``` Diretamente n a opção CMD
+git add .
+git commit -m "correção"
+```
+
